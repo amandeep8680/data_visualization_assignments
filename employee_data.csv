@@ -1,0 +1,11 @@
+Tid,Refund,Marital Status,Taxablec_Income,Cheat
+1,yes,S,125k,No
+2,No,M,100k,No
+3,No,S,70k,No
+4,Yes,M,120k,No
+5,No,D,95k,Yes
+6,No,M,60k,No
+7,Yes,D,220k,No
+8,No,S,85k,Yes
+9,No,M,75k,No
+10,No,S,90k,Yes
